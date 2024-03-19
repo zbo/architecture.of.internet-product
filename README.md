@@ -39,12 +39,4 @@
 ## 相关推荐
 * [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome)
 * [国内各大技术会议活动资料汇总，如：QCon，全球运维技术大会，全球技术领导力峰会，架构师峰会等](https://github.com/baiyutang/ppt)
-## 互联网架构/电商/高并发架构交流QQ群
 
-群名称：互联网公司架构交流
-
-群号：895960322
-
-不定期分享一线互联网公司技术架构，电商架构，高并发系统架构，大数据架构，扫码加入QQ群：
-
-![互联网公司架构交流QQ群](其他/architecture-qq-group.png)
